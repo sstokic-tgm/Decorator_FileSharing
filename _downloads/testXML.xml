@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss author="Milica,Stefan" version="2.0">
+	<channel author="Milica,Stefan">
+		<title author="Milica,Stefan">Java Tutorials and Examples</title>
+		<item author="Milica,Stefan">
+			<title author="Milica,Stefan"><![CDATA[Java Tutorials]]></title>
+			<link author="Milica,Stefan">http://www.javacodegeeks.com/</link>
+		</item>
+		<item author="Milica,Stefan">
+			<title author="Milica,Stefan"><![CDATA[Java Examples]]></title>
+			<link author="Milica,Stefan">http://examples.javacodegeeks.com/</link>
+		</item>
+	</channel>
+</rss>

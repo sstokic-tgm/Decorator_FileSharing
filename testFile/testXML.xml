@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rss version="2.0">
+	<channel>
+		<title>Java Tutorials and Examples</title>
+		<item>
+			<title><![CDATA[Java Tutorials]]></title>
+			<link>http://www.javacodegeeks.com/</link>
+		</item>
+		<item>
+			<title><![CDATA[Java Examples]]></title>
+			<link>http://examples.javacodegeeks.com/</link>
+		</item>
+	</channel>
+</rss>
